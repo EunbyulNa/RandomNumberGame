@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  width: 70%;
+  margin: auto;
+}
+
+.dice {
+  flex:50%;
+}
+
+#announce {
+  font-size: 50px;
+  color: red;
+}
